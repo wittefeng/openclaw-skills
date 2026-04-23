@@ -197,6 +197,9 @@ Step 8: 输出完整方案
 | 审查清单 | references/patent-checklist.md | 10项检查 |
 | OEM价值矩阵 | references/oem-value-matrix.md | 评估标准 |
 | 权利要求模板 | templates/claim-templates.md | 权利要求书 |
+| 专利存档 | references/patent-archive.md | 已做方向记录 |
+| 探索方法论 | references/patent-exploration-methods.md | 三个改进方案 |
+| 维度体系 | references/patent-dimensions.md | 10维度+3类别 |
 
 ## 使用示例
 
@@ -255,6 +258,39 @@ Step 8: 输出完整方案
 🔍 检索建议：
 关键词：(RFID OR 射频识别) AND (车内 OR 座舱) AND (物品管理 OR 防遗忘)
 ```
+
+## 探索方法论（基于用户反馈优化）
+
+### 三个改进方案
+
+**方案A：用户驱动模式**
+- 用户提供具体痛点/场景/关键词
+- 系统定向查重后生成方案
+- 适用：有明确需求时
+
+**方案B：标杆分析法**
+- 研究特斯拉/蔚来/奔驰等最新专利
+- 找出技术空白
+- 适用：需要找技术空白时
+
+**方案C：跨界移植法**
+- 从医疗/航空/建筑等领域移植成熟技术
+- 适用：需要范式转移时
+
+**参考文件：** `references/patent-exploration-methods.md`
+
+### 方案选择
+
+用户请求探索时，必须询问：
+```
+"请选择探索方案：
+A. 用户驱动（您提供痛点/场景）
+B. 标杆分析（研究车企最新专利）
+C. 跨界移植（从其他领域找技术）
+D. 混合方案（B+C）"
+```
+
+---
 
 ## 查重机制（CRITICAL）
 
