@@ -1,0 +1,32 @@
+📊 每日市场扫描简报
+扫描时间：2026-04-22 17:19
+新内容：10 条
+
+🔥 今日 Top 5
+
+1. • Framework Laptop 13 Pro
+   来源：Hacker News | 分类：其他
+   链接：https://frame.work/laptop13pro
+
+2. • Laws of Software Engineering
+   来源：Hacker News | 分类：其他
+   链接：https://lawsofsoftwareengineering.com
+
+3. 💻 SpaceX says it has agreement to acquire Cursor for $60B
+   来源：Hacker News | 分类：Vibe Coding, 副业/一人公司
+   链接：https://twitter.com/spacex/status/2046713419978453374
+   摘要：<a href="https:&#x2F;&#x2F;www.reuters.com&#x2F;technology&#x2F;spacex-says-it-has-option-acquire-st...
+
+4. 🤖 The Vercel breach: OAuth attack exposes risk in platform environment variables
+   来源：Hacker News | 分类：AI, 效率工具
+   链接：https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html
+   摘要：<i>Vercel April 2026 security incident</i> - <a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;it...
+
+5. • Britannica11.org – a structured edition of the 1911 Encyclopædia Britannica
+   来源：Hacker News | 分类：其他
+   链接：https://britannica11.org/
+
+💡 洞察
+
+• Vibe Coding 话题活跃（1条）
+• 副业/一人公司 话题活跃（1条）
