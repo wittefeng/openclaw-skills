@@ -1,0 +1,34 @@
+name: cabin-patent-explorer-v2
+label: 智能座舱专利探索 V2（增强版）
+description: |
+  探索智能座舱领域的专利创新方向，自动生成带量化技术效果的专利框架。
+  
+  当用户需要以下帮助时，必须使用此技能：
+  - "帮我探索专利方向"
+  - "生成专利框架"
+  - "评估专利价值"
+  - "写专利权利要求书"
+  - "检查专利新颖性"
+  
+version: 2.0.0
+triggers:
+  - 专利
+  - 智能座舱
+  - 专利框架
+  - 权利要求
+  - 专利检索
+capabilities:
+  - patent-direction-generation
+  - quantified-effect-calculation
+  - patent-search-guidance
+  - oem-value-assessment
+  - claim-drafting
+references:
+  - references/patent-directions.md
+  - references/patent-framework.md
+  - references/patent-quantifier.md
+  - references/patent-search-guide.md
+  - references/patent-checklist.md
+  - references/oem-value-matrix.md
+templates:
+  - templates/claim-templates.md

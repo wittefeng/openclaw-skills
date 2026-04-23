@@ -1,0 +1,31 @@
+name: doc-organizer
+label: 文档自动整理助手
+description: |
+  自动整理工作目录中的文档，按类型分类、重命名规范化、生成索引目录。
+  
+  当用户需要以下帮助时，必须使用此技能：
+  - "整理文档"
+  - "归类文件"
+  - "规范化文件名"
+  - "生成文件索引"
+  - "清理重复文件"
+  
+  ALWAYS use this skill when the user mentions organizing, sorting, or cleaning up documents and files.
+
+version: 1.0.0
+triggers:
+  - 整理文档
+  - 文件归类
+  - 规范化
+  - 文件索引
+  - 清理重复
+capabilities:
+  - file-classification
+  - batch-renaming
+  - index-generation
+  - duplicate-detection
+  - directory-structuring
+scripts:
+  - scripts/organizer.py
+templates:
+  - templates/naming-convention.md
